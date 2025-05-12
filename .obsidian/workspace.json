@@ -1,0 +1,213 @@
+{
+  "main": {
+    "id": "fe628d3212a74f96",
+    "type": "split",
+    "children": [
+      {
+        "id": "3589ed4c226689df",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "32425db7e156f147",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "rigs/General Rig Files/Enclosure Hinge.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Enclosure Hinge"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "70c5864f9f00474f",
+    "type": "split",
+    "children": [
+      {
+        "id": "ebf6bae598a329b3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e45513367f20c51b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f5fb84918e701c05",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "05587cc51fa34790",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "baf2a9ce47d68b89",
+    "type": "split",
+    "children": [
+      {
+        "id": "202847615bfc7703",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5ebaaff118679022",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "rigs/N-Metheus.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for N-Metheus"
+            }
+          },
+          {
+            "id": "876501ada0beb426",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "rigs/N-Metheus.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from N-Metheus"
+            }
+          },
+          {
+            "id": "cc614f67e6ca9b66",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "41f2b27ee1419ba5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "rigs/General Rig Files/Enclosure Hinge.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Enclosure Hinge"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "32425db7e156f147",
+  "lastOpenFiles": [
+    "rigs/N-Metheus.md",
+    "rigs/Atlas.md",
+    "rigs/Epimetheus.md",
+    "rigs/General Rig Files/Enclosure Hinge.md",
+    "rigs/General Rig Files/enclosure_hinge.step",
+    "rigs/General Rig Files/enclosure_hinge.stl",
+    "rigs/General Rig Files/Door hinge (1).stl",
+    "rigs/General Rig Files/Door hinge.step",
+    "rigs/General Rig Files/enclosure_hinge.png",
+    "People/Carter.md",
+    "People/Mary.md",
+    "People/Mark.md",
+    "rigs/N-Metheus Files/N-Metheus Wiring Guide.md",
+    "rigs/Atlas Files/Atlas Enclosure Rails.md",
+    "rigs/General Rig Files/Basler acA1300-200um.md",
+    "People",
+    "rigs/N-Metheus Files/Metheus Enclosure Rails.md",
+    "rigs/Prometheus.md",
+    "[[N-Metheus.md",
+    "Baseplate.md",
+    "Supplementary Files/Prusa MK4S 3D Printer.md",
+    "Supplementary Files",
+    "Supplementary Files/prusa_mk4s_3d_printer.png",
+    "index.md",
+    "Untitled.md",
+    "rigs/General Rig Files/baseplate.svg",
+    "rigs/General Rig Files/basler_aca1300-200um_front.png",
+    "rigs/General Rig Files/basler_aca1300-200um_back.png",
+    "rigs/N-Metheus Files/metheus_enclosure_rails.png",
+    "rigs/General Rig Files",
+    "[[Metheus.md",
+    "rigs/Atlas Files/atlas_enclosure_rails.png",
+    "rigs/N-Metheus Files",
+    "contact.md",
+    "Template.md",
+    "Welcome.md",
+    "rigs/Atlas Files/In line Basler camera holder.step",
+    "rigs/Atlas Files",
+    "contributors-shield.md"
+  ]
+}
