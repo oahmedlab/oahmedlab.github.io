@@ -6,7 +6,9 @@ Instructional site with information on how to replicate behavioral rigs for *Dro
 Top-down behavior
 - Prometheus
 - Epimetheus
-- n-metheus
+- N-Metheus
 
 Fly-on-ball
-- Atlas
+- Atlas-Motorized
+- Atlas-Maui (2P Microscopy)
+- Atlas-Courtship
